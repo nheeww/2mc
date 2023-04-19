@@ -4,5 +4,5 @@ body{
 .cabecalho-imagem{
     width: 20%;
 }
-
-<img class="escola-imagem" src="End of school-amico.png" alt="professor no quadro.">
+.escola-imagem
+width: 20%
